@@ -54,7 +54,7 @@ Jaeran's Front-end 2022 portfolio
 | Contact | address |
 | ------------ | ------------- |
 | Email | devjaeran@gmail.com |
-| Blog | ... |
+| Blog | https://velog.io/@ceciliaran |
 </br>  
   
 
