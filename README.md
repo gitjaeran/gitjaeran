@@ -27,18 +27,7 @@ Jaeran's Front-end 2022 portfolio
 </br>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </br>   
-</br>  
-
-## Project  
-</br>
-
-[D.NEMA NOTION](https://verbena-fragrance-500.notion.site/D-NEMA-14bfd2cd586f425a918df661ad0e756c)
-</br>
-
-[HELLO CALENDAR NOTION](https://verbena-fragrance-500.notion.site/KDT3rd-Team-Project-Group-A-4fb25df304634978b6e0c94e7078dcd1)   
-</br>
-</br>  
-</br>  
+</br>   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjaeran&layout=compact">  
 <br>  
