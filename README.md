@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Jaeran's Front-end 2022 portfolio  
 [Jaeran's Portfolio](https://verbena-fragrance-500.notion.site/54fdd965e82b45808fcfe0714c0bbefa)
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjaeran&layout=compact&theme=dracula" width="300px"><br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=gitjaeran&show_icons=true&theme=dracula" width="380px">
 </br>   
 </br>   
